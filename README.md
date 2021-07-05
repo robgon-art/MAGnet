@@ -4,7 +4,7 @@
 By Robert. A Gonsalves</br>
 ![sample images](https://raw.githubusercontent.com/robgon-art/MAGnet/main/MAGneg2_small.jpg)
 
-You can see my article here on [Medium](https://robgon.medium.com/).
+You can see my article here on [Medium](https://towardsdatascience.com/magnet-modern-art-generator-using-deep-neural-networks-57537457bb7).
 
 The source code and generated images are released under the [CC BY-SA license](https://creativecommons.org/licenses/by-sa/4.0/).</br>
 ![CC BY-NC-SA](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
